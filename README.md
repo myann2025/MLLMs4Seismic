@@ -26,11 +26,12 @@ This seismic cube provides a clear insight into the subsurface structure of the 
 
 The corresponding seismic test image is shown as,
 
-<img width="660" alt="image" src="https://github.com/user-attachments/assets/92616f92-f453-49a6-a30b-5062518144e8" />
+![image](https://github.com/user-attachments/assets/16d204fb-7207-4fa1-b605-34e5140dd8b7)
+
 
 The training loss curves from WandB as follows,
 
-![image](https://github.com/user-attachments/assets/a5d0a34a-e88f-4517-9909-706aeeeb6717)
+![image](https://github.com/user-attachments/assets/c746c960-4bf3-47bc-b38c-f9a7d4ee012b)
 
 
 You are welcome to use this small dataset to multimodal LLMs for seismic interpretation tests.
